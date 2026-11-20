@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.9", "3.10", "3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install
+        run: python -m pip install --upgrade pip && python -m pip install ".[test]"
+      - name: Test
+        run: python -m pytest -q
+      - name: Installed package smoke test (data must ship inside the wheel)
+        working-directory: /tmp
+        run: |
+          python -c "import turkiye_il_ilce as t; print(t.data_path('ilceler.geojson')); assert t.lookup(40.99, 29.03)['ilce'] == 'Kadýköy'"
+          il-ilce 40.99 29.03 --json

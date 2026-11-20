@@ -1,0 +1,1554 @@
+{
+ "meta": {
+  "overture_release": "2026-11-18.0",
+  "built": "2026-11-20",
+  "il_sayisi": 81,
+  "ilce_sayisi": 973,
+  "simplify_tolerance_deg": 0.0008,
+  "coordinate_decimals": 4,
+  "license": "ODbL-1.0",
+  "attribution": "(c) OpenStreetMap contributors, Overture Maps Foundation"
+ },
+ "iller": [
+  {
+   "plaka": 1,
+   "iso": "TR-01",
+   "ad": "Adana",
+   "ilceler": [
+    "Aladağ",
+    "Ceyhan",
+    "Feke",
+    "Karaisalı",
+    "Karataş",
+    "Kozan",
+    "Pozantı",
+    "Saimbeyli",
+    "Sarıçam",
+    "Seyhan",
+    "Tufanbeyli",
+    "Yumurtalık",
+    "Yüreğir",
+    "Çukurova",
+    "İmamoğlu"
+   ]
+  },
+  {
+   "plaka": 2,
+   "iso": "TR-02",
+   "ad": "Adıyaman",
+   "ilceler": [
+    "Adıyaman Merkez",
+    "Besni",
+    "Gerger",
+    "Gölbaşı",
+    "Kâhta",
+    "Samsat",
+    "Sincik",
+    "Tut",
+    "Çelikhan"
+   ]
+  },
+  {
+   "plaka": 3,
+   "iso": "TR-03",
+   "ad": "Afyonkarahisar",
+   "ilceler": [
+    "Afyonkarahisar Merkez",
+    "Bayat",
+    "Başmakçı",
+    "Bolvadin",
+    "Dazkırı",
+    "Dinar",
+    "Emirdağ",
+    "Evciler",
+    "Hocalar",
+    "Kızılören",
+    "Sandıklı",
+    "Sinanpaşa",
+    "Sultandağı",
+    "Çay",
+    "Çobanlar",
+    "İhsaniye",
+    "İscehisar",
+    "Şuhut"
+   ]
+  },
+  {
+   "plaka": 4,
+   "iso": "TR-04",
+   "ad": "Ağrı",
+   "ilceler": [
+    "Ağrı Merkez",
+    "Diyadin",
+    "Doğubayazıt",
+    "Eleşkirt",
+    "Hamur",
+    "Patnos",
+    "Taşlıçay",
+    "Tutak"
+   ]
+  },
+  {
+   "plaka": 5,
+   "iso": "TR-05",
+   "ad": "Amasya",
+   "ilceler": [
+    "Amasya Merkez",
+    "Göynücek",
+    "Gümüşhacıköy",
+    "Hamamözü",
+    "Merzifon",
+    "Suluova",
+    "Taşova"
+   ]
+  },
+  {
+   "plaka": 6,
+   "iso": "TR-06",
+   "ad": "Ankara",
+   "ilceler": [
+    "Akyurt",
+    "Altındağ",
+    "Ayaş",
+    "Balâ",
+    "Beypazarı",
+    "Elmadağ",
+    "Etimesgut",
+    "Evren",
+    "Gölbaşı",
+    "Güdül",
+    "Haymana",
+    "Kahramankazan",
+    "Kalecik",
+    "Keçiören",
+    "Kızılcahamam",
+    "Mamak",
+    "Nallıhan",
+    "Polatlı",
+    "Pursaklar",
+    "Sincan",
+    "Yenimahalle",
+    "Çamlıdere",
+    "Çankaya",
+    "Çubuk",
+    "Şereflikoçhisar"
+   ]
+  },
+  {
+   "plaka": 7,
+   "iso": "TR-07",
+   "ad": "Antalya",
+   "ilceler": [
+    "Akseki",
+    "Aksu",
+    "Alanya",
+    "Demre",
+    "Döşemealtı",
+    "Elmalı",
+    "Finike",
+    "Gazipaşa",
+    "Gündoğmuş",
+    "Kaş",
+    "Kemer",
+    "Kepez",
+    "Konyaaltı",
+    "Korkuteli",
+    "Kumluca",
+    "Manavgat",
+    "Muratpaşa",
+    "Serik",
+    "İbradı"
+   ]
+  },
+  {
+   "plaka": 8,
+   "iso": "TR-08",
+   "ad": "Artvin",
+   "ilceler": [
+    "Ardanuç",
+    "Arhavi",
+    "Artvin Merkez",
+    "Borçka",
+    "Hopa",
+    "Kemalpaşa",
+    "Murgul",
+    "Yusufeli",
+    "Şavşat"
+   ]
+  },
+  {
+   "plaka": 9,
+   "iso": "TR-09",
+   "ad": "Aydın",
+   "ilceler": [
+    "Bozdoğan",
+    "Buharkent",
+    "Didim",
+    "Efeler",
+    "Germencik",
+    "Karacasu",
+    "Karpuzlu",
+    "Koçarlı",
+    "Kuyucak",
+    "Kuşadası",
+    "Köşk",
+    "Nazilli",
+    "Sultanhisar",
+    "Söke",
+    "Yenipazar",
+    "Çine",
+    "İncirliova"
+   ]
+  },
+  {
+   "plaka": 10,
+   "iso": "TR-10",
+   "ad": "Balıkesir",
+   "ilceler": [
+    "Altıeylül",
+    "Ayvalık",
+    "Balya",
+    "Bandırma",
+    "Bigadiç",
+    "Burhaniye",
+    "Dursunbey",
+    "Edremit",
+    "Erdek",
+    "Gömeç",
+    "Gönen",
+    "Havran",
+    "Karesi",
+    "Kepsut",
+    "Manyas",
+    "Marmara",
+    "Savaştepe",
+    "Susurluk",
+    "Sındırgı",
+    "İvrindi"
+   ]
+  },
+  {
+   "plaka": 11,
+   "iso": "TR-11",
+   "ad": "Bilecik",
+   "ilceler": [
+    "Bilecik Merkez",
+    "Bozüyük",
+    "Gölpazarı",
+    "Osmaneli",
+    "Pazaryeri",
+    "Söğüt",
+    "Yenipazar",
+    "İnhisar"
+   ]
+  },
+  {
+   "plaka": 12,
+   "iso": "TR-12",
+   "ad": "Bingöl",
+   "ilceler": [
+    "Adaklı",
+    "Bingöl Merkez",
+    "Genç",
+    "Karlıova",
+    "Kiğı",
+    "Solhan",
+    "Yayladere",
+    "Yedisu"
+   ]
+  },
+  {
+   "plaka": 13,
+   "iso": "TR-13",
+   "ad": "Bitlis",
+   "ilceler": [
+    "Adilcevaz",
+    "Ahlat",
+    "Bitlis Merkez",
+    "Güroymak",
+    "Hizan",
+    "Mutki",
+    "Tatvan"
+   ]
+  },
+  {
+   "plaka": 14,
+   "iso": "TR-14",
+   "ad": "Bolu",
+   "ilceler": [
+    "Bolu Merkez",
+    "Dörtdivan",
+    "Gerede",
+    "Göynük",
+    "Kıbrıscık",
+    "Mengen",
+    "Mudurnu",
+    "Seben",
+    "Yeniçağa"
+   ]
+  },
+  {
+   "plaka": 15,
+   "iso": "TR-15",
+   "ad": "Burdur",
+   "ilceler": [
+    "Altınyayla",
+    "Ağlasun",
+    "Bucak",
+    "Burdur Merkez",
+    "Gölhisar",
+    "Karamanlı",
+    "Kemer",
+    "Tefenni",
+    "Yeşilova",
+    "Çavdır",
+    "Çeltikçi"
+   ]
+  },
+  {
+   "plaka": 16,
+   "iso": "TR-16",
+   "ad": "Bursa",
+   "ilceler": [
+    "Büyükorhan",
+    "Gemlik",
+    "Gürsu",
+    "Harmancık",
+    "Karacabey",
+    "Keles",
+    "Kestel",
+    "Mudanya",
+    "Mustafakemalpaşa",
+    "Nilüfer",
+    "Orhaneli",
+    "Orhangazi",
+    "Osmangazi",
+    "Yenişehir",
+    "Yıldırım",
+    "İnegöl",
+    "İznik"
+   ]
+  },
+  {
+   "plaka": 17,
+   "iso": "TR-17",
+   "ad": "Çanakkale",
+   "ilceler": [
+    "Ayvacık",
+    "Bayramiç",
+    "Biga",
+    "Bozcaada",
+    "Eceabat",
+    "Ezine",
+    "Gelibolu",
+    "Gökçeada",
+    "Lapseki",
+    "Yenice",
+    "Çan",
+    "Çanakkale Merkez"
+   ]
+  },
+  {
+   "plaka": 18,
+   "iso": "TR-18",
+   "ad": "Çankırı",
+   "ilceler": [
+    "Atkaracalar",
+    "Bayramören",
+    "Eldivan",
+    "Ilgaz",
+    "Korgun",
+    "Kurşunlu",
+    "Kızılırmak",
+    "Orta",
+    "Yapraklı",
+    "Çankırı Merkez",
+    "Çerkeş",
+    "Şabanözü"
+   ]
+  },
+  {
+   "plaka": 19,
+   "iso": "TR-19",
+   "ad": "Çorum",
+   "ilceler": [
+    "Alaca",
+    "Bayat",
+    "Boğazkale",
+    "Dodurga",
+    "Kargı",
+    "Laçin",
+    "Mecitözü",
+    "Ortaköy",
+    "Osmancık",
+    "Oğuzlar",
+    "Sungurlu",
+    "Uğurludağ",
+    "Çorum Merkez",
+    "İskilip"
+   ]
+  },
+  {
+   "plaka": 20,
+   "iso": "TR-20",
+   "ad": "Denizli",
+   "ilceler": [
+    "Acıpayam",
+    "Babadağ",
+    "Baklan",
+    "Bekilli",
+    "Beyağaç",
+    "Bozkurt",
+    "Buldan",
+    "Güney",
+    "Honaz",
+    "Kale",
+    "Merkezefendi",
+    "Pamukkale",
+    "Sarayköy",
+    "Serinhisar",
+    "Tavas",
+    "Çal",
+    "Çameli",
+    "Çardak",
+    "Çivril"
+   ]
+  },
+  {
+   "plaka": 21,
+   "iso": "TR-21",
+   "ad": "Diyarbakır",
+   "ilceler": [
+    "Bağlar",
+    "Bismil",
+    "Dicle",
+    "Ergani",
+    "Eğil",
+    "Hani",
+    "Hazro",
+    "Kayapınar",
+    "Kocaköy",
+    "Kulp",
+    "Lice",
+    "Silvan",
+    "Sur",
+    "Yenişehir",
+    "Çermik",
+    "Çüngüş",
+    "Çınar"
+   ]
+  },
+  {
+   "plaka": 22,
+   "iso": "TR-22",
+   "ad": "Edirne",
+   "ilceler": [
+    "Edirne Merkez",
+    "Enez",
+    "Havsa",
+    "Keşan",
+    "Lalapaşa",
+    "Meriç",
+    "Süloğlu",
+    "Uzunköprü",
+    "İpsala"
+   ]
+  },
+  {
+   "plaka": 23,
+   "iso": "TR-23",
+   "ad": "Elâzığ",
+   "ilceler": [
+    "Alacakaya",
+    "Arıcak",
+    "Ağın",
+    "Baskil",
+    "Elâzığ Merkez",
+    "Karakoçan",
+    "Keban",
+    "Kovancılar",
+    "Maden",
+    "Palu",
+    "Sivrice"
+   ]
+  },
+  {
+   "plaka": 24,
+   "iso": "TR-24",
+   "ad": "Erzincan",
+   "ilceler": [
+    "Erzincan Merkez",
+    "Kemah",
+    "Kemaliye",
+    "Otlukbeli",
+    "Refahiye",
+    "Tercan",
+    "Çayırlı",
+    "Üzümlü",
+    "İliç"
+   ]
+  },
+  {
+   "plaka": 25,
+   "iso": "TR-25",
+   "ad": "Erzurum",
+   "ilceler": [
+    "Aziziye",
+    "Aşkale",
+    "Horasan",
+    "Hınıs",
+    "Karayazı",
+    "Karaçoban",
+    "Köprüköy",
+    "Narman",
+    "Oltu",
+    "Olur",
+    "Palandöken",
+    "Pasinler",
+    "Pazaryolu",
+    "Tekman",
+    "Tortum",
+    "Uzundere",
+    "Yakutiye",
+    "Çat",
+    "İspir",
+    "Şenkaya"
+   ]
+  },
+  {
+   "plaka": 26,
+   "iso": "TR-26",
+   "ad": "Eskişehir",
+   "ilceler": [
+    "Alpu",
+    "Beylikova",
+    "Günyüzü",
+    "Han",
+    "Mahmudiye",
+    "Mihalgazi",
+    "Mihalıççık",
+    "Odunpazarı",
+    "Sarıcakaya",
+    "Seyitgazi",
+    "Sivrihisar",
+    "Tepebaşı",
+    "Çifteler",
+    "İnönü"
+   ]
+  },
+  {
+   "plaka": 27,
+   "iso": "TR-27",
+   "ad": "Gaziantep",
+   "ilceler": [
+    "Araban",
+    "Karkamış",
+    "Nizip",
+    "Nurdağı",
+    "Oğuzeli",
+    "Yavuzeli",
+    "İslahiye",
+    "Şahinbey",
+    "Şehitkamil"
+   ]
+  },
+  {
+   "plaka": 28,
+   "iso": "TR-28",
+   "ad": "Giresun",
+   "ilceler": [
+    "Alucra",
+    "Bulancak",
+    "Dereli",
+    "Doğankent",
+    "Espiye",
+    "Eynesil",
+    "Giresun Merkez",
+    "Görele",
+    "Güce",
+    "Keşap",
+    "Piraziz",
+    "Tirebolu",
+    "Yağlıdere",
+    "Çamoluk",
+    "Çanakçı",
+    "Şebinkarahisar"
+   ]
+  },
+  {
+   "plaka": 29,
+   "iso": "TR-29",
+   "ad": "Gümüşhane",
+   "ilceler": [
+    "Gümüşhane Merkez",
+    "Kelkit",
+    "Köse",
+    "Kürtün",
+    "Torul",
+    "Şiran"
+   ]
+  },
+  {
+   "plaka": 30,
+   "iso": "TR-30",
+   "ad": "Hakkâri",
+   "ilceler": [
+    "Derecik",
+    "Hakkari Merkez",
+    "Yüksekova",
+    "Çukurca",
+    "Şemdinli"
+   ]
+  },
+  {
+   "plaka": 31,
+   "iso": "TR-31",
+   "ad": "Hatay",
+   "ilceler": [
+    "Altınözü",
+    "Antakya",
+    "Arsuz",
+    "Belen",
+    "Defne",
+    "Dörtyol",
+    "Erzin",
+    "Hassa",
+    "Kumlu",
+    "Kırıkhan",
+    "Payas",
+    "Reyhanlı",
+    "Samandağ",
+    "Yayladağı",
+    "İskenderun"
+   ]
+  },
+  {
+   "plaka": 32,
+   "iso": "TR-32",
+   "ad": "Isparta",
+   "ilceler": [
+    "Aksu",
+    "Atabey",
+    "Eğirdir",
+    "Gelendost",
+    "Gönen",
+    "Isparta Merkez",
+    "Keçiborlu",
+    "Senirkent",
+    "Sütçüler",
+    "Uluborlu",
+    "Yalvaç",
+    "Yenişarbademli",
+    "Şarkikaraağaç"
+   ]
+  },
+  {
+   "plaka": 33,
+   "iso": "TR-33",
+   "ad": "Mersin",
+   "ilceler": [
+    "Akdeniz",
+    "Anamur",
+    "Aydıncık",
+    "Bozyazı",
+    "Erdemli",
+    "Gülnar",
+    "Mezitli",
+    "Mut",
+    "Silifke",
+    "Tarsus",
+    "Toroslar",
+    "Yenişehir",
+    "Çamlıyayla"
+   ]
+  },
+  {
+   "plaka": 34,
+   "iso": "TR-34",
+   "ad": "İstanbul",
+   "ilceler": [
+    "Adalar",
+    "Arnavutköy",
+    "Ataşehir",
+    "Avcılar",
+    "Bahçelievler",
+    "Bakırköy",
+    "Bayrampaşa",
+    "Bağcılar",
+    "Başakşehir",
+    "Beykoz",
+    "Beylikdüzü",
+    "Beyoğlu",
+    "Beşiktaş",
+    "Büyükçekmece",
+    "Esenler",
+    "Esenyurt",
+    "Eyüpsultan",
+    "Fatih",
+    "Gaziosmanpaşa",
+    "Güngören",
+    "Kadıköy",
+    "Kartal",
+    "Kâğıthane",
+    "Küçükçekmece",
+    "Maltepe",
+    "Pendik",
+    "Sancaktepe",
+    "Sarıyer",
+    "Silivri",
+    "Sultanbeyli",
+    "Sultangazi",
+    "Tuzla",
+    "Zeytinburnu",
+    "Çatalca",
+    "Çekmeköy",
+    "Ümraniye",
+    "Üsküdar",
+    "Şile",
+    "Şişli"
+   ]
+  },
+  {
+   "plaka": 35,
+   "iso": "TR-35",
+   "ad": "İzmir",
+   "ilceler": [
+    "Aliağa",
+    "Balçova",
+    "Bayraklı",
+    "Bayındır",
+    "Bergama",
+    "Beydağ",
+    "Bornova",
+    "Buca",
+    "Dikili",
+    "Foça",
+    "Gaziemir",
+    "Güzelbahçe",
+    "Karabağlar",
+    "Karaburun",
+    "Karşıyaka",
+    "Kemalpaşa",
+    "Kiraz",
+    "Konak",
+    "Kınık",
+    "Menderes",
+    "Menemen",
+    "Narlıdere",
+    "Seferihisar",
+    "Selçuk",
+    "Tire",
+    "Torbalı",
+    "Urla",
+    "Çeşme",
+    "Çiğli",
+    "Ödemiş"
+   ]
+  },
+  {
+   "plaka": 36,
+   "iso": "TR-36",
+   "ad": "Kars",
+   "ilceler": [
+    "Akyaka",
+    "Arpaçay",
+    "Digor",
+    "Kars Merkez",
+    "Kağızman",
+    "Sarıkamış",
+    "Selim",
+    "Susuz"
+   ]
+  },
+  {
+   "plaka": 37,
+   "iso": "TR-37",
+   "ad": "Kastamonu",
+   "ilceler": [
+    "Abana",
+    "Araç",
+    "Azdavay",
+    "Ağlı",
+    "Bozkurt",
+    "Cide",
+    "Daday",
+    "Devrekani",
+    "Doğanyurt",
+    "Hanönü",
+    "Kastamonu Merkez",
+    "Küre",
+    "Pınarbaşı",
+    "Seydiler",
+    "Taşköprü",
+    "Tosya",
+    "Çatalzeytin",
+    "İhsangazi",
+    "İnebolu",
+    "Şenpazar"
+   ]
+  },
+  {
+   "plaka": 38,
+   "iso": "TR-38",
+   "ad": "Kayseri",
+   "ilceler": [
+    "Akkışla",
+    "Bünyan",
+    "Develi",
+    "Felahiye",
+    "Hacılar",
+    "Kocasinan",
+    "Melikgazi",
+    "Pınarbaşı",
+    "Sarıoğlan",
+    "Sarız",
+    "Talas",
+    "Tomarza",
+    "Yahyalı",
+    "Yeşilhisar",
+    "Özvatan",
+    "İncesu"
+   ]
+  },
+  {
+   "plaka": 39,
+   "iso": "TR-39",
+   "ad": "Kırklareli",
+   "ilceler": [
+    "Babaeski",
+    "Demirköy",
+    "Kofçaz",
+    "Kırklareli Merkez",
+    "Lüleburgaz",
+    "Pehlivanköy",
+    "Pınarhisar",
+    "Vize"
+   ]
+  },
+  {
+   "plaka": 40,
+   "iso": "TR-40",
+   "ad": "Kırşehir",
+   "ilceler": [
+    "Akpınar",
+    "Akçakent",
+    "Boztepe",
+    "Kaman",
+    "Kırşehir Merkez",
+    "Mucur",
+    "Çiçekdağı"
+   ]
+  },
+  {
+   "plaka": 41,
+   "iso": "TR-41",
+   "ad": "Kocaeli",
+   "ilceler": [
+    "Başiskele",
+    "Darıca",
+    "Derince",
+    "Dilovası",
+    "Gebze",
+    "Gölcük",
+    "Kandıra",
+    "Karamürsel",
+    "Kartepe",
+    "Körfez",
+    "Çayırova",
+    "İzmit"
+   ]
+  },
+  {
+   "plaka": 42,
+   "iso": "TR-42",
+   "ad": "Konya",
+   "ilceler": [
+    "Ahırlı",
+    "Akören",
+    "Akşehir",
+    "Altınekin",
+    "Beyşehir",
+    "Bozkır",
+    "Cihanbeyli",
+    "Derbent",
+    "Derebucak",
+    "Doğanhisar",
+    "Emirgazi",
+    "Ereğli",
+    "Güneysınır",
+    "Hadim",
+    "Halkapınar",
+    "Hüyük",
+    "Ilgın",
+    "Kadınhanı",
+    "Karapınar",
+    "Karatay",
+    "Kulu",
+    "Meram",
+    "Sarayönü",
+    "Selçuklu",
+    "Seydişehir",
+    "Taşkent",
+    "Tuzlukçu",
+    "Yalıhüyük",
+    "Yunak",
+    "Çeltik",
+    "Çumra"
+   ]
+  },
+  {
+   "plaka": 43,
+   "iso": "TR-43",
+   "ad": "Kütahya",
+   "ilceler": [
+    "Altıntaş",
+    "Aslanapa",
+    "Domaniç",
+    "Dumlupınar",
+    "Emet",
+    "Gediz",
+    "Hisarcık",
+    "Kütahya Merkez",
+    "Pazarlar",
+    "Simav",
+    "Tavşanlı",
+    "Çavdarhisar",
+    "Şaphane"
+   ]
+  },
+  {
+   "plaka": 44,
+   "iso": "TR-44",
+   "ad": "Malatya",
+   "ilceler": [
+    "Akçadağ",
+    "Arapgir",
+    "Arguvan",
+    "Battalgazi",
+    "Darende",
+    "Doğanyol",
+    "Doğanşehir",
+    "Hekimhan",
+    "Kale",
+    "Kuluncak",
+    "Pütürge",
+    "Yazıhan",
+    "Yeşilyurt"
+   ]
+  },
+  {
+   "plaka": 45,
+   "iso": "TR-45",
+   "ad": "Manisa",
+   "ilceler": [
+    "Ahmetli",
+    "Akhisar",
+    "Alaşehir",
+    "Demirci",
+    "Gölmarmara",
+    "Gördes",
+    "Kula",
+    "Köprübaşı",
+    "Kırkağaç",
+    "Salihli",
+    "Saruhanlı",
+    "Sarıgöl",
+    "Selendi",
+    "Soma",
+    "Turgutlu",
+    "Yunusemre",
+    "Şehzadeler"
+   ]
+  },
+  {
+   "plaka": 46,
+   "iso": "TR-46",
+   "ad": "Kahramanmaraş",
+   "ilceler": [
+    "Afşin",
+    "Andırın",
+    "Dulkadiroğlu",
+    "Ekinözü",
+    "Elbistan",
+    "Göksun",
+    "Nurhak",
+    "Onikişubat",
+    "Pazarcık",
+    "Türkoğlu",
+    "Çağlayancerit"
+   ]
+  },
+  {
+   "plaka": 47,
+   "iso": "TR-47",
+   "ad": "Mardin",
+   "ilceler": [
+    "Artuklu",
+    "Dargeçit",
+    "Derik",
+    "Kızıltepe",
+    "Mazıdağı",
+    "Midyat",
+    "Nusaybin",
+    "Savur",
+    "Yeşilli",
+    "Ömerli"
+   ]
+  },
+  {
+   "plaka": 48,
+   "iso": "TR-48",
+   "ad": "Muğla",
+   "ilceler": [
+    "Bodrum",
+    "Dalaman",
+    "Datça",
+    "Fethiye",
+    "Kavaklıdere",
+    "Köyceğiz",
+    "Marmaris",
+    "Menteşe",
+    "Milas",
+    "Ortaca",
+    "Seydikemer",
+    "Ula",
+    "Yatağan"
+   ]
+  },
+  {
+   "plaka": 49,
+   "iso": "TR-49",
+   "ad": "Muş",
+   "ilceler": [
+    "Bulanık",
+    "Hasköy",
+    "Korkut",
+    "Malazgirt",
+    "Muş Merkez",
+    "Varto"
+   ]
+  },
+  {
+   "plaka": 50,
+   "iso": "TR-50",
+   "ad": "Nevşehir",
+   "ilceler": [
+    "Acıgöl",
+    "Avanos",
+    "Derinkuyu",
+    "Gülşehir",
+    "Hacıbektaş",
+    "Kozaklı",
+    "Nevşehir Merkez",
+    "Ürgüp"
+   ]
+  },
+  {
+   "plaka": 51,
+   "iso": "TR-51",
+   "ad": "Niğde",
+   "ilceler": [
+    "Altunhisar",
+    "Bor",
+    "Niğde Merkez",
+    "Ulukışla",
+    "Çamardı",
+    "Çiftlik"
+   ]
+  },
+  {
+   "plaka": 52,
+   "iso": "TR-52",
+   "ad": "Ordu",
+   "ilceler": [
+    "Akkuş",
+    "Altınordu",
+    "Aybastı",
+    "Fatsa",
+    "Gölköy",
+    "Gülyalı",
+    "Gürgentepe",
+    "Kabadüz",
+    "Kabataş",
+    "Korgan",
+    "Kumru",
+    "Mesudiye",
+    "Perşembe",
+    "Ulubey",
+    "Çamaş",
+    "Çatalpınar",
+    "Çaybaşı",
+    "Ünye",
+    "İkizce"
+   ]
+  },
+  {
+   "plaka": 53,
+   "iso": "TR-53",
+   "ad": "Rize",
+   "ilceler": [
+    "Ardeşen",
+    "Derepazarı",
+    "Fındıklı",
+    "Güneysu",
+    "Hemşin",
+    "Kalkandere",
+    "Pazar",
+    "Rize Merkez",
+    "Çamlıhemşin",
+    "Çayeli",
+    "İkizdere",
+    "İyidere"
+   ]
+  },
+  {
+   "plaka": 54,
+   "iso": "TR-54",
+   "ad": "Sakarya",
+   "ilceler": [
+    "Adapazarı",
+    "Akyazı",
+    "Arifiye",
+    "Erenler",
+    "Ferizli",
+    "Geyve",
+    "Hendek",
+    "Karapürçek",
+    "Karasu",
+    "Kaynarca",
+    "Kocaali",
+    "Pamukova",
+    "Sapanca",
+    "Serdivan",
+    "Söğütlü",
+    "Taraklı"
+   ]
+  },
+  {
+   "plaka": 55,
+   "iso": "TR-55",
+   "ad": "Samsun",
+   "ilceler": [
+    "19 Mayıs",
+    "Alaçam",
+    "Asarcık",
+    "Atakum",
+    "Ayvacık",
+    "Bafra",
+    "Canik",
+    "Havza",
+    "Kavak",
+    "Ladik",
+    "Salıpazarı",
+    "Tekkeköy",
+    "Terme",
+    "Vezirköprü",
+    "Yakakent",
+    "Çarşamba",
+    "İlkadım"
+   ]
+  },
+  {
+   "plaka": 56,
+   "iso": "TR-56",
+   "ad": "Siirt",
+   "ilceler": [
+    "Baykan",
+    "Eruh",
+    "Kurtalan",
+    "Pervari",
+    "Siirt Merkez",
+    "Tillo",
+    "Şirvan"
+   ]
+  },
+  {
+   "plaka": 57,
+   "iso": "TR-57",
+   "ad": "Sinop",
+   "ilceler": [
+    "Ayancık",
+    "Boyabat",
+    "Dikmen",
+    "Durağan",
+    "Erfelek",
+    "Gerze",
+    "Saraydüzü",
+    "Sinop Merkez",
+    "Türkeli"
+   ]
+  },
+  {
+   "plaka": 58,
+   "iso": "TR-58",
+   "ad": "Sivas",
+   "ilceler": [
+    "Akıncılar",
+    "Altınyayla",
+    "Divriği",
+    "Doğanşar",
+    "Gemerek",
+    "Gölova",
+    "Gürün",
+    "Hafik",
+    "Kangal",
+    "Koyulhisar",
+    "Sivas Merkez",
+    "Suşehri",
+    "Ulaş",
+    "Yıldızeli",
+    "Zara",
+    "İmranlı",
+    "Şarkışla"
+   ]
+  },
+  {
+   "plaka": 59,
+   "iso": "TR-59",
+   "ad": "Tekirdağ",
+   "ilceler": [
+    "Ergene",
+    "Hayrabolu",
+    "Kapaklı",
+    "Malkara",
+    "Marmaraereğlisi",
+    "Muratlı",
+    "Saray",
+    "Süleymanpaşa",
+    "Çerkezköy",
+    "Çorlu",
+    "Şarköy"
+   ]
+  },
+  {
+   "plaka": 60,
+   "iso": "TR-60",
+   "ad": "Tokat",
+   "ilceler": [
+    "Almus",
+    "Artova",
+    "Başçiftlik",
+    "Erbaa",
+    "Niksar",
+    "Pazar",
+    "Reşadiye",
+    "Sulusaray",
+    "Tokat Merkez",
+    "Turhal",
+    "Yeşilyurt",
+    "Zile"
+   ]
+  },
+  {
+   "plaka": 61,
+   "iso": "TR-61",
+   "ad": "Trabzon",
+   "ilceler": [
+    "Akçaabat",
+    "Araklı",
+    "Arsin",
+    "Beşikdüzü",
+    "Dernekpazarı",
+    "Düzköy",
+    "Hayrat",
+    "Köprübaşı",
+    "Maçka",
+    "Of",
+    "Ortahisar",
+    "Sürmene",
+    "Tonya",
+    "Vakfıkebir",
+    "Yomra",
+    "Çarşıbaşı",
+    "Çaykara",
+    "Şalpazarı"
+   ]
+  },
+  {
+   "plaka": 62,
+   "iso": "TR-62",
+   "ad": "Tunceli",
+   "ilceler": [
+    "Hozat",
+    "Mazgirt",
+    "Nazımiye",
+    "Ovacık",
+    "Pertek",
+    "Pülümür",
+    "Tunceli Merkez",
+    "Çemişgezek"
+   ]
+  },
+  {
+   "plaka": 63,
+   "iso": "TR-63",
+   "ad": "Şanlıurfa",
+   "ilceler": [
+    "Akçakale",
+    "Birecik",
+    "Bozova",
+    "Ceylanpınar",
+    "Eyyübiye",
+    "Halfeti",
+    "Haliliye",
+    "Harran",
+    "Hilvan",
+    "Karaköprü",
+    "Siverek",
+    "Suruç",
+    "Viranşehir"
+   ]
+  },
+  {
+   "plaka": 64,
+   "iso": "TR-64",
+   "ad": "Uşak",
+   "ilceler": [
+    "Banaz",
+    "Eşme",
+    "Karahallı",
+    "Sivaslı",
+    "Ulubey",
+    "Uşak Merkez"
+   ]
+  },
+  {
+   "plaka": 65,
+   "iso": "TR-65",
+   "ad": "Van",
+   "ilceler": [
+    "Bahçesaray",
+    "Başkale",
+    "Edremit",
+    "Erciş",
+    "Gevaş",
+    "Gürpınar",
+    "Muradiye",
+    "Saray",
+    "Tuşba",
+    "Çaldıran",
+    "Çatak",
+    "Özalp",
+    "İpekyolu"
+   ]
+  },
+  {
+   "plaka": 66,
+   "iso": "TR-66",
+   "ad": "Yozgat",
+   "ilceler": [
+    "Akdağmadeni",
+    "Aydıncık",
+    "Boğazlıyan",
+    "Kadışehri",
+    "Saraykent",
+    "Sarıkaya",
+    "Sorgun",
+    "Yenifakılı",
+    "Yerköy",
+    "Yozgat Merkez",
+    "Çandır",
+    "Çayıralan",
+    "Çekerek",
+    "Şefaatli"
+   ]
+  },
+  {
+   "plaka": 67,
+   "iso": "TR-67",
+   "ad": "Zonguldak",
+   "ilceler": [
+    "Alaplı",
+    "Devrek",
+    "Ereğli",
+    "Gökçebey",
+    "Kilimli",
+    "Kozlu",
+    "Zonguldak Merkez",
+    "Çaycuma"
+   ]
+  },
+  {
+   "plaka": 68,
+   "iso": "TR-68",
+   "ad": "Aksaray",
+   "ilceler": [
+    "Aksaray Merkez",
+    "Ağaçören",
+    "Eskil",
+    "Gülağaç",
+    "Güzelyurt",
+    "Ortaköy",
+    "Sarıyahşi",
+    "Sultanhanı"
+   ]
+  },
+  {
+   "plaka": 69,
+   "iso": "TR-69",
+   "ad": "Bayburt",
+   "ilceler": [
+    "Aydıntepe",
+    "Bayburt Merkez",
+    "Demirözü"
+   ]
+  },
+  {
+   "plaka": 70,
+   "iso": "TR-70",
+   "ad": "Karaman",
+   "ilceler": [
+    "Ayrancı",
+    "Başyayla",
+    "Ermenek",
+    "Karaman Merkez",
+    "Kazımkarabekir",
+    "Sarıveliler"
+   ]
+  },
+  {
+   "plaka": 71,
+   "iso": "TR-71",
+   "ad": "Kırıkkale",
+   "ilceler": [
+    "Bahşılı",
+    "Balışeyh",
+    "Delice",
+    "Karakeçili",
+    "Keskin",
+    "Kırıkkale Merkez",
+    "Sulakyurt",
+    "Yahşihan",
+    "Çelebi"
+   ]
+  },
+  {
+   "plaka": 72,
+   "iso": "TR-72",
+   "ad": "Batman",
+   "ilceler": [
+    "Batman Merkez",
+    "Beşiri",
+    "Gercüş",
+    "Hasankeyf",
+    "Kozluk",
+    "Sason"
+   ]
+  },
+  {
+   "plaka": 73,
+   "iso": "TR-73",
+   "ad": "Şırnak",
+   "ilceler": [
+    "Beytüşşebap",
+    "Cizre",
+    "Güçlükonak",
+    "Silopi",
+    "Uludere",
+    "İdil",
+    "Şırnak Merkez"
+   ]
+  },
+  {
+   "plaka": 74,
+   "iso": "TR-74",
+   "ad": "Bartın",
+   "ilceler": [
+    "Amasra",
+    "Bartın Merkez",
+    "Kurucaşile",
+    "Ulus"
+   ]
+  },
+  {
+   "plaka": 75,
+   "iso": "TR-75",
+   "ad": "Ardahan",
+   "ilceler": [
+    "Ardahan Merkez",
+    "Damal",
+    "Göle",
+    "Hanak",
+    "Posof",
+    "Çıldır"
+   ]
+  },
+  {
+   "plaka": 76,
+   "iso": "TR-76",
+   "ad": "Iğdır",
+   "ilceler": [
+    "Aralık",
+    "Iğdır Merkez",
+    "Karakoyunlu",
+    "Tuzluca"
+   ]
+  },
+  {
+   "plaka": 77,
+   "iso": "TR-77",
+   "ad": "Yalova",
+   "ilceler": [
+    "Altınova",
+    "Armutlu",
+    "Termal",
+    "Yalova Merkez",
+    "Çiftlikköy",
+    "Çınarcık"
+   ]
+  },
+  {
+   "plaka": 78,
+   "iso": "TR-78",
+   "ad": "Karabük",
+   "ilceler": [
+    "Eflani",
+    "Eskipazar",
+    "Karabük Merkez",
+    "Ovacık",
+    "Safranbolu",
+    "Yenice"
+   ]
+  },
+  {
+   "plaka": 79,
+   "iso": "TR-79",
+   "ad": "Kilis",
+   "ilceler": [
+    "Elbeyli",
+    "Kilis Merkez",
+    "Musabeyli",
+    "Polateli"
+   ]
+  },
+  {
+   "plaka": 80,
+   "iso": "TR-80",
+   "ad": "Osmaniye",
+   "ilceler": [
+    "Bahçe",
+    "Düziçi",
+    "Hasanbeyli",
+    "Kadirli",
+    "Osmaniye Merkez",
+    "Sumbas",
+    "Toprakkale"
+   ]
+  },
+  {
+   "plaka": 81,
+   "iso": "TR-81",
+   "ad": "Düzce",
+   "ilceler": [
+    "Akçakoca",
+    "Cumayeri",
+    "Düzce Merkez",
+    "Gölyaka",
+    "Gümüşova",
+    "Kaynaşlı",
+    "Yığılca",
+    "Çilimli"
+   ]
+  }
+ ]
+}

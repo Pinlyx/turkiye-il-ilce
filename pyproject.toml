@@ -1,0 +1,61 @@
+[build-system]
+requires = ["hatchling>=1.18"]
+build-backend = "hatchling.build"
+
+[project]
+name = "turkiye-il-ilce"
+version = "0.1.0"
+description = "Offline coordinate to province (il) and district (ilce) lookup for Turkiye, with up to date boundary GeoJSON. Pure Python, no dependencies."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+license-files = ["LICENSE", "LICENSE-DATA"]
+authors = [{ name = "Pinlyx" }]
+keywords = [
+    "turkey", "turkiye", "türkiye", "il", "ilce", "ilçe", "province", "district",
+    "reverse-geocoding", "geojson", "point-in-polygon", "offline", "plaka", "openstreetmap", "overture",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Natural Language :: Turkish",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: GIS",
+    "Typing :: Typed",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/Pinlyx/turkiye-il-ilce"
+Repository = "https://github.com/Pinlyx/turkiye-il-ilce"
+Issues = "https://github.com/Pinlyx/turkiye-il-ilce/issues"
+
+[project.scripts]
+il-ilce = "turkiye_il_ilce.cli:main"
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+build-data = ["duckdb>=1.1"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/turkiye_il_ilce"]
+
+# The boundary data lives in <repo>/data for non-Python users; the wheel carries a copy.
+[tool.hatch.build.targets.wheel.force-include]
+"data/iller.geojson" = "turkiye_il_ilce/data/iller.geojson"
+"data/ilceler.geojson" = "turkiye_il_ilce/data/ilceler.geojson"
+"data/il-ilce.json" = "turkiye_il_ilce/data/il-ilce.json"
+
+[tool.hatch.build.targets.sdist]
+include = ["src", "data", "scripts", "tests", "README.md", "LICENSE", "LICENSE-DATA", "CHANGELOG.md", "CONTRIBUTING.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
