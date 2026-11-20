@@ -23,5 +23,5 @@ jobs:
       - name: Installed package smoke test (data must ship inside the wheel)
         working-directory: /tmp
         run: |
-          python -c "import turkiye_il_ilce as t; print(t.data_path('ilceler.geojson')); assert t.lookup(40.99, 29.03)['ilce'] == 'Kadýköy'"
+          python -c "import turkiye_il_ilce as t; print(t.data_path('ilceler.geojson')); assert t.lookup(40.99, 29.03)['ilce'] == 'KadÄ±kÃ¶y'"
           il-ilce 40.99 29.03 --json
